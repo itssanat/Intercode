@@ -14,3 +14,8 @@ InterCode is an application that takes Telephonic Technical Interviews to next l
 10. The interviewer can give a question to the Interviewee for him to solve.
 11. After interview Interviewer can rate and score the student and the result is saved.
 12. Fetch details of best of all the candidates.
+
+## Developer
+1) Prashant Shakya
+2) Sanat kumar
+3) Chitransh Nigam
